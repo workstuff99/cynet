@@ -1,0 +1,1 @@
+0 * * * * root /bin/bash /etc/cynet-logstash/scripts/updater.sh >> /var/log/updater.log 2>&1

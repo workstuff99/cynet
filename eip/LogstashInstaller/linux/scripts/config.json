@@ -1,0 +1,32 @@
+{
+  "tkn": "e078d852-086b-4023-b31b-64d3aeaa172b",
+  "url": "https://sav.cynet.com",
+  "providers": {
+    "sonicwall-cef": 5104,
+    "checkpoint-cef": 5106,
+    "fortigate-cef": 5107,
+    "paloalto-cef": 5108,
+    "watchguard-cef": 5110,
+    "esxi-ecs": 5111,
+    "sophos-ecs": 5112,
+    "meraki-ecs": 5113,
+    "firepower-ecs": 5114,
+    "cisco-sw-ecs": 5115,
+    "cisco-wlc-ecs": 5116,
+    "netapp-storage-ecs": 5117,
+    "aruba-switch-ecs": 5118,
+    "ibm-3par-storage-ecs": 5119,
+    "ibm-as400-ecs": 5120,
+    "qnap-nas-ecs": 5121,
+    "nutanix-ecs": 5122,
+    "mellanox-ecs": 5123,
+    "zimperium-ecs": 5125,
+    "juniper-ecs": 5126,
+    "kemp-ecs": 5127,
+    "forcepoint-cef": 5128,
+    "thor-ecs": 5129,
+    "ubiquiti-ecs": 5130,
+    "fortianalyzer-cef": 5131
+  },
+  "samplers": {}
+}

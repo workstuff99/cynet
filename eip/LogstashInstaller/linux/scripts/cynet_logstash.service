@@ -1,0 +1,9 @@
+[Unit]
+Description=Cynet Logstash Service
+
+[Service]
+ExecStart=#CMD
+Restart=always
+
+[Install]
+RequiredBy=network.target
